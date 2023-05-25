@@ -35,7 +35,7 @@ const Heading = styled.h1`
   &::after {
     content: '';
     width: 100px;
-    height: 7px;
+    height: 6px;
     background-color: #66A2FE;
     display: block;
     margin: 10px auto 0 auto;
